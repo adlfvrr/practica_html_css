@@ -1,0 +1,11 @@
+.faltante{
+    color: aqua;
+    font-size: 25px;
+    font-style: oblique;
+}
+.IngredientesHeader{
+    font-family: cursive;
+}
+#ingrediente_masa{
+    color:blueviolet;
+}

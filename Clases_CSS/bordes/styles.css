@@ -1,0 +1,16 @@
+div{
+    background-color: aqua;
+    font-size: 100px;
+    width: 800px;
+    margin:auto;
+    text-align: center;
+
+    
+    border-width: 5px; border-color: white;
+    border-style: solid;
+
+    border: 5px white solid; 
+
+
+    border-radius: 100px;
+}
