@@ -1,0 +1,26 @@
+body{
+    background:linear-gradient(green,#fff, red);
+}
+.box{
+    width: 500px;
+    height: 500px;
+    background-image: url("https://imgs.search.brave.com/rYxnwwZsbl7YATQIecvilrjDchI013TmuTw5luwQAco/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kYXRh/YmFzcXVldC5jb20u/YXIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDcvQ2ljbGlz/dGEuanBn");
+    background-position: center;
+    margin: auto;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.aguante{
+    border-top: 10px solid green;
+    border-bottom: 10px solid green;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50px;
+    font-weight: 600;
+    color: #000
+}
+.opaco{
+    height: 100%;
+    width: 100%;
+    background-color: #0009;
+}
